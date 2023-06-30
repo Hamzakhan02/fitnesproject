@@ -1,2 +1,2 @@
-# fitnesproject
+# fitnessproject
 Fitness website
